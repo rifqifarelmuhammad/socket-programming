@@ -4,7 +4,7 @@ a simple API with server socket written from scratch in Golang.
 ## Technology Stack
 [![Tech Stacks](https://skillicons.dev/icons?i=golang)](https://skillicons.dev)
 
-## How to Run the Project
+## How to Run the Program
 1. Run ```go run main.go``` on the server package to run the server
 2. Run ```go run main.go``` on the client package to run the client
 3. Enter the URL, accepted content type, and accepted content language
