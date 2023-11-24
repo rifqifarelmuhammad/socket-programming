@@ -7,9 +7,8 @@ a simple API with server socket written from scratch in Golang.
 ## How to Run the Program
 1. Run ```go run main.go``` on the server package to run the server
 2. Run ```go run main.go``` on the client package to run the client
-3. Enter the URL, accepted content type, and accepted content language
+3. Input the URL, accepted content type, and accepted content language
 4. The response will be sent by the server based on the input
-5. You can repeat steps 2 to 4
 
 ### List of URL
 - SERVER_HOST:SERVER_PORT/ (note: accepted content type must be text/html)
@@ -26,7 +25,7 @@ a simple API with server socket written from scratch in Golang.
 - en-US
 - id-ID
 
-## Author
+## Authors
 - Dhafin Raditya Juliawan
 - Fadhlan Hasyim
 - Rifqi Farel Muhammad
